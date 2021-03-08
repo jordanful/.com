@@ -7,7 +7,7 @@ layout: default
 
 I'm a founder, engineer, designer, product, software guy.
 
-I'm currently building [Kaizen](https://kaizen.app), a product that helps teams build an open and honest through feedback. Previously, I led product at Rocketmiles, a B2C travel company acquired by Booking.com in 2015. I also spent time at Groupon, scaling and leading consumer design teams.
+I'm currently building [Kaizen](https://kaizen.app), a product that helps teams build an open and honest culture through feedback. Previously, I led product at Rocketmiles, a B2C travel company acquired by Booking.com in 2015. I also spent time at Groupon, scaling and leading consumer design teams.
 
 I like to learn and build and occasionally make modest angel investments.
 
